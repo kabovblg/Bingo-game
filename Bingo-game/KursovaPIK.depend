@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1578827939 source:c:\users\blagovest\desktop\kuursovapik\kursovapik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1578831576 source:c:\users\blagovest\desktop\tu - sofia\1sem\kuursovapik\kursovapik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+

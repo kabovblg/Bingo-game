@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1577216113 source:c:\users\blagovest\desktop\proba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
